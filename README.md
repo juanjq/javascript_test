@@ -1,2 +1,2 @@
 # javascript_test
-Javascript tests
+Javascript test
