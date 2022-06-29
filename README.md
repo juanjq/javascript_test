@@ -1,2 +1,2 @@
-# javascript_test
+# javascript_tests
 Javascript test
